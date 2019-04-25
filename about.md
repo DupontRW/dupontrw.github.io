@@ -6,6 +6,7 @@ permalink: /about/
 order: 3
 ---
 
+<p WHY AM I DOING THIS /p>
 
 <p align="center"><img src="http://ir_public.s3.amazonaws.com/projects/ignite/ignite-logo-red-on-white-1000w.jpg" alt="header image" width="500px"></p>
 
